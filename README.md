@@ -129,7 +129,7 @@ the user is responsible.
 ### The Hard Method (Not Recommend)
 ```js
 $ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
+$ cd Mianmoiz2Duplicated
 $ npm i
 $ nano config.env
 // Config.env oluşturun ve düzenleyin. Örnek: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
